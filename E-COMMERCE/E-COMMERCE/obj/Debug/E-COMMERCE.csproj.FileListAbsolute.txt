@@ -1,0 +1,44 @@
+c:\users\korisnik\documents\visual studio 2012\Projects\E-COMMERCE\E-COMMERCE\bin\Debug\E-COMMERCE.exe.config
+c:\users\korisnik\documents\visual studio 2012\Projects\E-COMMERCE\E-COMMERCE\bin\Debug\E-COMMERCE.exe
+c:\users\korisnik\documents\visual studio 2012\Projects\E-COMMERCE\E-COMMERCE\bin\Debug\E-COMMERCE.pdb
+c:\users\korisnik\documents\visual studio 2012\Projects\E-COMMERCE\E-COMMERCE\obj\Debug\E-COMMERCE.csprojResolveAssemblyReference.cache
+c:\users\korisnik\documents\visual studio 2012\Projects\E-COMMERCE\E-COMMERCE\obj\Debug\E_COMMERCE.Form1.resources
+c:\users\korisnik\documents\visual studio 2012\Projects\E-COMMERCE\E-COMMERCE\obj\Debug\E_COMMERCE.Properties.Resources.resources
+c:\users\korisnik\documents\visual studio 2012\Projects\E-COMMERCE\E-COMMERCE\obj\Debug\E-COMMERCE.csproj.GenerateResource.Cache
+c:\users\korisnik\documents\visual studio 2012\Projects\E-COMMERCE\E-COMMERCE\obj\Debug\E-COMMERCE.exe
+c:\users\korisnik\documents\visual studio 2012\Projects\E-COMMERCE\E-COMMERCE\obj\Debug\E-COMMERCE.pdb
+c:\users\korisnik\documents\visual studio 2012\Projects\E-COMMERCE\E-COMMERCE\obj\Debug\E_COMMERCE.Form2.resources
+c:\users\korisnik\documents\visual studio 2012\Projects\E-COMMERCE\E-COMMERCE\obj\Debug\E_COMMERCE.Form3.resources
+C:\Users\Korisnik\Documents\Visual Studio 2012\Projects\E-COMMERCE\E-COMMERCE\bin\Debug\EntityFramework.dll
+C:\Users\Korisnik\Documents\Visual Studio 2012\Projects\E-COMMERCE\E-COMMERCE\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Korisnik\Documents\Visual Studio 2012\Projects\E-COMMERCE\E-COMMERCE\bin\Debug\EntityFramework.xml
+C:\Users\Korisnik\Documents\Visual Studio 2012\Projects\E-COMMERCE\E-COMMERCE\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Korisnik\Documents\Visual Studio 2012\Projects\E-COMMERCE\E-COMMERCE\obj\Debug\E_COMMERCE.FrmSearch.resources
+C:\Users\Korisnik\Documents\Visual Studio 2012\Projects\E-COMMERCE\E-COMMERCE\obj\Debug\E_COMMERCE.Main.resources
+C:\Users\Korisnik\Documents\Visual Studio 2012\Projects\E-COMMERCE\E-COMMERCE\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\Korisnik\Documents\Visual Studio 2012\Projects\E-COMMERCE\E-COMMERCE\bin\Debug\MySql.Data.dll
+C:\Users\Korisnik\Documents\Visual Studio 2012\Projects\E-COMMERCE\E-COMMERCE\bin\Debug\mysql.data.entity.EF6.dll
+C:\Users\Korisnik\Documents\Visual Studio 2012\Projects\E-COMMERCE\E-COMMERCE\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Korisnik\Documents\Visual Studio 2012\Projects\E-COMMERCE\E-COMMERCE\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\Abdurrahman\Desktop\E-COMMERCE\E-COMMERCE\bin\Debug\E-COMMERCE.exe.config
+C:\Users\Abdurrahman\Desktop\E-COMMERCE\E-COMMERCE\bin\Debug\E-COMMERCE.exe
+C:\Users\Abdurrahman\Desktop\E-COMMERCE\E-COMMERCE\bin\Debug\E-COMMERCE.pdb
+C:\Users\Abdurrahman\Desktop\E-COMMERCE\E-COMMERCE\bin\Debug\EntityFramework.dll
+C:\Users\Abdurrahman\Desktop\E-COMMERCE\E-COMMERCE\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Abdurrahman\Desktop\E-COMMERCE\E-COMMERCE\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\Abdurrahman\Desktop\E-COMMERCE\E-COMMERCE\bin\Debug\MySql.Data.dll
+C:\Users\Abdurrahman\Desktop\E-COMMERCE\E-COMMERCE\bin\Debug\mysql.data.entity.EF6.dll
+C:\Users\Abdurrahman\Desktop\E-COMMERCE\E-COMMERCE\bin\Debug\EntityFramework.xml
+C:\Users\Abdurrahman\Desktop\E-COMMERCE\E-COMMERCE\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Abdurrahman\Desktop\E-COMMERCE\E-COMMERCE\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\Abdurrahman\Desktop\E-COMMERCE\E-COMMERCE\obj\Debug\E_COMMERCE.FrmAddCategory.resources
+C:\Users\Abdurrahman\Desktop\E-COMMERCE\E-COMMERCE\obj\Debug\E_COMMERCE.FrmAddCity.resources
+C:\Users\Abdurrahman\Desktop\E-COMMERCE\E-COMMERCE\obj\Debug\E_COMMERCE.FrmLogin.resources
+C:\Users\Abdurrahman\Desktop\E-COMMERCE\E-COMMERCE\obj\Debug\E_COMMERCE.FrmHome.resources
+C:\Users\Abdurrahman\Desktop\E-COMMERCE\E-COMMERCE\obj\Debug\E_COMMERCE.FrmAddProduct.resources
+C:\Users\Abdurrahman\Desktop\E-COMMERCE\E-COMMERCE\obj\Debug\E_COMMERCE.FrmSearch.resources
+C:\Users\Abdurrahman\Desktop\E-COMMERCE\E-COMMERCE\obj\Debug\E_COMMERCE.Main.resources
+C:\Users\Abdurrahman\Desktop\E-COMMERCE\E-COMMERCE\obj\Debug\E_COMMERCE.Properties.Resources.resources
+C:\Users\Abdurrahman\Desktop\E-COMMERCE\E-COMMERCE\obj\Debug\E-COMMERCE.csproj.GenerateResource.Cache
+C:\Users\Abdurrahman\Desktop\E-COMMERCE\E-COMMERCE\obj\Debug\E-COMMERCE.exe
+C:\Users\Abdurrahman\Desktop\E-COMMERCE\E-COMMERCE\obj\Debug\E-COMMERCE.pdb
